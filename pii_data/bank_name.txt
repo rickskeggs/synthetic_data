@@ -1,0 +1,6 @@
+Local Bank, 10
+Southern Bank, 20
+Farmers Bank, 30
+National Bank, 40
+SLD Bank, 50
+Regional Dev Bank, 60
